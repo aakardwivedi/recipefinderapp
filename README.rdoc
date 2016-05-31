@@ -8,7 +8,7 @@ developed with Ruby(2.2.2)
 It uses Recipe API of 
 http://food2fork.com/
 
-You can search for keywords to find something you are looking for or something new.
+You can search for keywords to find recipes you are looking for.
 
 Will upload instructions to deploy your own app soon.
 
