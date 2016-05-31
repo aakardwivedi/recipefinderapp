@@ -1,28 +1,15 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A web-app running on
+https://recipefinder1786.herokuapp.com/
 
-Things you may want to cover:
+developed with Ruby(2.2.2)
 
-* Ruby version
+It uses Recipe API of 
+http://food2fork.com/
 
-* System dependencies
+You can search for keywords to find something you are looking for or something new.
 
-* Configuration
+Will upload instructions to deploy your own app soon.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
